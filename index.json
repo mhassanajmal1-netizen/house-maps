@@ -6,7 +6,7 @@
    "name": "Original design (first drawings)",
    "desc": "The house as first drawn: 10x10 and 13x13 bedrooms, TV lounge with double height, terrace at the front.",
    "order": 1,
-   "version": 2611241455,
+   "version": 2611241734,
    "url": "original.json",
    "size": 141897
   },
@@ -15,14 +15,14 @@
    "name": "Fork 2.1 (new design)",
    "desc": "35' house on the east, 25' garden. Double height with a folding glass wall, master + guest suites downstairs, 3 bedrooms + TV lounge upstairs, lift.",
    "order": 2,
-   "version": 2611241455,
+   "version": 2611241734,
    "url": "fork-2-1.json",
-   "size": 143495
+   "size": 143623
   }
  ],
  "library": {
-  "version": 2611241455,
+  "version": 2611241734,
   "url": "furniture.json",
-  "size": 43466
+  "size": 43517
  }
 }
